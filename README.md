@@ -6,9 +6,8 @@
 
 <br>
 
-
 <p>
-    <img align="right" src="https://user-images.githubusercontent.com/87453033/207853773-8007d65d-bd44-4fd8-83e8-53b6664165d8.gif" alt="adam-pw" height=200 width=300 />
+    <img align="right" src="https://user-images.githubusercontent.com/87453033/207853773-8007d65d-bd44-4fd8-83e8-53b6664165d8.gif" alt="adam-pw" height=400 width=300 />
 </p>
 
 <br>
@@ -17,7 +16,7 @@
 <a href="https://github.com/NourallahAhmed/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NourallahAhmed"> </a>
 <a href="https://github.com/NourallahAhmed?tab=followers"><img src="https://img.shields.io/github/followers/NourallahAhmed?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+<br>
 
 <br>
 
