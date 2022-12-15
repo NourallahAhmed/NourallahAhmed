@@ -1,19 +1,17 @@
-### Hi there 👋
-
-
-
-
-
 
 
 <h1 align="center">Hi, I'm NourAllah Ahmed</h1>
-<h3 align="center"> Mobile Applications Developer.</h3>
+<h3 align="center"> Mobile Application Developer.</h3>
 
 
 <br>
 
 
-<p><img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw33NNYTn2oVVmtjY03UQ83t&ust=1671191523550000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDTvdvH-_sCFQAAAAAdAAAAABAO" alt="adam-pw" /></p>
+<p>
+    <img align="right" src="https://user-images.githubusercontent.com/87453033/207853773-8007d65d-bd44-4fd8-83e8-53b6664165d8.gif" alt="adam-pw" height=200 width=300 />
+</p>
+
+<br>
 
 ## Views and Followers ❤ 
 <a href="https://github.com/NourallahAhmed/github-profile-views-counter">
