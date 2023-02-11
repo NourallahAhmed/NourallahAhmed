@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently working as freelancer.
+- 🌱 I’m currently working as ios developer at RunProf LLC.
 
 - 📫 How to reach me **NourAllahAhmed7001@gmail.com** 
 
