@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently working as ios developer at RunProf LLC.
+- 🌱 I’m currently working as a Mobile developer at BDAIAT Technology
 
 - 📫 How to reach me **NourAllahAhmed7001@gmail.com** 
 
