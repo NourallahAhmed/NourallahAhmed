@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently working as a Mobile developer at BDAIAT Technology
+- 🌱 I’m currently working as a Mobile developer at Vodafone Egypt
 
 - 📫 How to reach me **NourAllahAhmed7001@gmail.com** 
 
